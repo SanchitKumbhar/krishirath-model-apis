@@ -1,0 +1,52 @@
+{
+  "indian_soils": [
+    {
+      "type": "Alluvial Soil",
+      "average_pH": 7.0
+    },
+    {
+      "type": "Black Soil (Regur Soil)",
+      "average_pH": 6.8
+    },
+    {
+      "type": "Red Soil",
+      "average_pH": 5.8
+    },
+    {
+      "type": "Laterite Soil",
+      "average_pH": 5.0
+    },
+    {
+      "type": "Arid (Desert) Soil",
+      "average_pH": 8.2
+    },
+    {
+      "type": "Mountain (Forest) Soil",
+      "average_pH": 6.0
+    },
+    {
+      "type": "Peaty and Marshy Soil",
+      "average_pH": 4.5
+    },
+    {
+      "type": "Saline and Alkaline Soil",
+      "average_pH": 8.5
+    },
+    {
+      "type": "Sandy Soil",
+      "average_pH": 6.5
+    },
+    {
+      "type": "Clayey Soil",
+      "average_pH": 5.5
+    },
+    {
+      "type": "Loamy Soil",
+      "average_pH": 6.8
+    },
+    {
+      "type": "Silty Soil",
+      "average_pH": 6.3
+    }
+  ]
+}
