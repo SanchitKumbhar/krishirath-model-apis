@@ -15,6 +15,8 @@ This API predicts the **most suitable crop** for a given location based on:
 
 ## 🚀 Endpoint
 
+## Base URL : `https://krishirath-model-apis-1.onrender.com`
+
 ### **POST** `/api/v1/crop-predict`
 
 ---
